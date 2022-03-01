@@ -1,0 +1,28 @@
+{
+  "name": "dealers-choice-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start:dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurencagss/dealers-choice-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurencagss/dealers-choice-react/issues"
+  },
+  "homepage": "https://github.com/Laurencagss/dealers-choice-react#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "react": "^17.0.2"
+  }
+}
