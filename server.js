@@ -7,7 +7,7 @@ const PORT = 3000;
 
 //takes you to the homepage index.html
 app.get('/', (req, res)=>{
-  res.sendFile(path.join(__dirname, 'index.html'));
+  res.sendFile(path.join(__dirname, './public/index.html'));
 }
 )
 
